@@ -1,0 +1,14 @@
+*{
+	border:0;
+	margin:0;
+	box-sixing: content-box; 
+}
+
+#contenedor{
+	display:flex;
+	justify-content: center;
+}
+
+#padre{
+	width:80%;
+}
